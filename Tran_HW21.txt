@@ -1,0 +1,24 @@
+Project Name: Hands-On Exercises 6.4-6.7
+Author: Melinda Tran
+Date Last Modified: April 25, 2019
+
+1.
+
+.relative { position: relative;
+			left: 15px;
+			background-color: #D7FDD7; }
+
+2.
+
+#fixed { position: fixed;
+		background-color: #9c9c9c;
+		font-weight: bold;
+		padding: 10px; }
+
+3.
+
+ul { list-style-image: url("myimage.gif"); }
+
+4.
+
+ul { list-style-type: square; }
